@@ -1,0 +1,1 @@
+Running the `2_imdb_model.ipynb` notebook will generate the csv file `log_reg_bag.csv` . Uploading this prediction onto https://www.kaggle.com/c/word2vec-nlp-tutorial produces a score of 94.793 accuracy.
